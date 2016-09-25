@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <string name="label_search">Search Keyword</string>
+    <string name="label_go">Go</string>
+    <string name="label_choose">Choose a Keyword</string>
+    <string name="label_loading_dictionary">Loading Dictionary ...</string>
+    <string name="label_loading_photo">Loading Photo ...</string>
+    <string name="toast_has_no_internet">You\'re not connected</string>
+    <string name="toast_has_no_images">No images in dictionary</string>
+
+    <string-array name="keywords">
+        <item>UNCC</item>
+        <item>Android</item>
+        <item>Winter</item>
+        <item>Aurora</item>
+        <item>Wonders</item>
+    </string-array>
+</resources>
